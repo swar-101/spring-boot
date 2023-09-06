@@ -1,0 +1,49 @@
+Use HTTP Verbs: RESTful APIs are built around HTTP verbs. Use GET for retrieving resources, POST for creating a new resource, PUT for updating an existing resource, and DELETE for deleting a resource.
+
+Use Nouns: Use nouns to name your resources, and use plural nouns for collections. For example, use /books for a collection of books and /books/{id} for a specific book.
+
+Use HTTP Status Codes: Use the appropriate HTTP status codes to represent the outcome of a request. For example, use 200 OK for a successful response, 404 Not Found for a resource that does not exist, and 500 Internal Server Error for a server-side error.
+
+Use Query Parameters: Use query parameters to filter, sort, or paginate results. For example, use /books?author=Stephen+King to filter books by author.
+
+Use Request and Response Body: Use request and response bodies to send and receive data in JSON or XML format. Use the appropriate data types to represent the data.
+
+Use Pagination: Use pagination to limit the amount of data returned in a response. Use query parameters to specify the page number and page size.
+
+Use Hypermedia: Use hypermedia to provide links to related resources. Use HATEOAS (Hypermedia as the Engine of Application State) to provide links to actions that can be performed on a resource.
+
+Use Spring Security: Use Spring Security to secure your APIs. Use OAuth2 to provide authentication and authorization for your APIs.
+
+Use Swagger: Use Swagger to document your APIs. Use the Swagger UI to test your APIs.
+
+Use Unit Tests: Use unit tests to test your APIs. Use the Spring MVC Test framework to test your APIs.
+
+
+
+
+Swar Kunwar
+What are the best software engineering practices when writing the code for RESTful APIs in Spring Boot A
+Here are some best software engineering practices when writing code for RESTful APIs in a Spring Boot application:
+
+Use SOLID principles: Follow SOLID principles, such as the Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle, to create maintainable and extensible code.
+
+Use Design Patterns: Use design patterns such as Factory, Builder, Singleton, and Strategy to improve the design and maintainability of your code.
+
+Use DTOs (Data Transfer Objects): Use DTOs to transfer data between your RESTful API and the client application. DTOs can help to decouple the API from the data model and provide a clean separation of concerns.
+
+Use Exception Handling: Use exception handling to handle errors and provide informative error messages to the client. Use Spring's Exception Handling mechanism to handle exceptions and return appropriate HTTP status codes.
+
+Use Logging: Use logging to record application events and errors. Use a logging framework such as Logback or Log4j to log messages to a file or a centralized logging system.
+
+Use Caching: Use caching to improve the performance of your RESTful API. Use Spring's Caching mechanism to cache the results of frequently accessed API endpoints.
+
+Use Validation: Use validation to ensure that the client input is valid. Use Spring's Validation mechanism to validate input data and return appropriate error messages.
+
+Use Security: Use security to protect your RESTful API from unauthorized access. Use Spring Security to secure your API and provide authentication and authorization.
+
+Use Testing: Use testing to ensure that your RESTful API works as expected. Use JUnit and Spring MVC Test to write unit and integration tests for your API.
+
+Use Documentation: Use documentation to provide information about your RESTful API. Use tools such as Swagger to generate API documentation and provide a user-friendly interface for developers to test and interact with your API.
+
+
+

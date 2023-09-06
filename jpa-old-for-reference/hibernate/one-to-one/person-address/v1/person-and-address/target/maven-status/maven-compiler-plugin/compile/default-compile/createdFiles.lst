@@ -1,0 +1,12 @@
+com\example\v1\personandaddress\controller\AddressController.class
+com\example\v1\personandaddress\mapper\AddressMapper.class
+com\example\v1\personandaddress\model\PersonData.class
+com\example\v1\personandaddress\service\PersonService.class
+com\example\v1\personandaddress\model\AddressData.class
+com\example\v1\personandaddress\mapper\PersonMapper.class
+com\example\v1\personandaddress\entity\Address.class
+com\example\v1\personandaddress\model\PersonResponse.class
+com\example\v1\personandaddress\Application.class
+com\example\v1\personandaddress\entity\Person.class
+com\example\v1\personandaddress\controller\PersonController.class
+com\example\v1\personandaddress\repository\PersonRepository.class

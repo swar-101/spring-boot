@@ -1,0 +1,12 @@
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\mapper\PersonMapper.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\model\PersonData.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\model\PersonResponse.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\Application.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\entity\Person.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\mapper\AddressMapper.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\service\PersonService.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\entity\Address.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\repository\PersonRepository.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\controller\PersonController.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\model\AddressData.java
+D:\practice\java\spring-boot\jpa\hibernate\one-to-one\person-address\v1\person-and-address\src\main\java\com\example\v1\personandaddress\controller\AddressController.java
